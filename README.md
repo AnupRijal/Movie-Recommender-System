@@ -3,7 +3,7 @@
 This project is a movie recommendation system built with Python and Jupyter Notebook. It leverages collaborative filtering and content-based filtering techniques to suggest movies similar to the one entered by the user.
 
 ## Project Overview
-
+Recommender system ss.png
 ### Importance of Recommender Systems
 
 Recommender systems are crucial in today's digital age as they enhance user experience by suggesting relevant items, such as movies, books, products, and more. They play a vital role in various online fields, including e-commerce, streaming services, and social media platforms, by helping users discover content that matches their preferences and needs. This personalized approach not only increases user engagement but also drives sales and customer satisfaction.
